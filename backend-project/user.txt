@@ -1,0 +1,21 @@
+user : {
+  full name: String,
+  password : string,
+  email : string,
+  cart: [],
+  contact : Number,
+  image : db,
+  isadmin : boolean,
+  orders - array,
+}
+
+post {
+  id: objectId,
+  iamge: 
+  name,
+  price,
+  discount,
+  bg color,
+  panel color,
+  text color
+}
